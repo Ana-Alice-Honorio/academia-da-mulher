@@ -1,26 +1,58 @@
-# AcademiaMulher
+# Academia da Mulher 🦋​
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
+<div align="center">
+  <strong>🚀 Descrição do Repositório </strong>
+</div>
 
-## Development server
+<div align="center">
+  <p>Um repositório incrível com um projeto espetacular! 🎉</p>
+  <p>Aqui você encontrará informações sobre o projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento e muito mais.</p>
+  <p>Espero que gostem 😄</p>
+</div>
 
-To start a local development server, run:
+## 🔭 Visão Geral
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Ana-Alice-Honorio/academia-da-mulher?style=for-the-badge&color=FF1493)
+![GitHub language count](https://img.shields.io/github/languages/count/Ana-Alice-Honorio/academia-da-mulher?style=for-the-badge&color=FF1493)
+![last commit](https://img.shields.io/github/last-commit/Ana-Alice-Honorio/academia-da-mulher?style=for-the-badge&color=FF1493)
+![Feito por Alice](https://img.shields.io/badge/feito-por%20Alice-FF1493)
+
+Criado com [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.7.
+
+Este projeto tem como objetivo recriar o site da academia da mulher, de forma clara, segura e com um toque de sofisticação.
+
+<div  align="center">
+  <img src="https://media.giphy.com/media/2kScliAET6wToizj2w/giphy.gif?cid=ecf05e47bglmr5k1knqs4gm7n21kf5mjuue8c6f1kg5p98rv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="500px" />
+</div>
+
+## 💻 Tecnologias
+
+- [Angular.js](https://angular.dev/tutorials/learn-angular) framework
+- [Typescript](https://www.typescriptlang.org/) para tipagem
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) para a base
+- [CSS](https://www.w3schools.com/cssref/index.php) para estilizar
+- [Eslint](https://eslint.org/) para ajudar a encontrar e corrigir problemas em Javascript
+- [Prettier](https://prettier.io/) para formatação de código
+
+## Rodando servidor
+
+Para dar start, execute:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Uma vez rodando, abra seu navegador em `http://localhost:4200/`. A aplicação faz reload automático quando há qualquer modificação no seu código na sua IDE.
 
-## Code scaffolding
+## Estrutura de código
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+O Angular CLI inclui ferramentas poderosas de estrutura de código. Para gerar um novo componente, execute:
 
 ```bash
 ng generate component component-name
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Para uma lista completa de esquemas disponíveis (como `componentes`, `diretivas` ou `pipes`), execute:
 
 ```bash
 ng generate --help
@@ -28,32 +60,28 @@ ng generate --help
 
 ## Building
 
-To build the project run:
+Para buildar o projeto, execute:
 
 ```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Isso compilará seu projeto e armazenará os artefatos de construção no diretório `dist/`. Por padrão, a construção de produção otimiza seu aplicativo para desempenho e velocidade.
 
-## Running unit tests
+## Rodando testes unitários
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Execute os testes com [Karma](https://karma-runner.github.io) test runner, use o comando:
 
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
+## Rodando testes end-to-end
 
-For end-to-end (e2e) testing, run:
+Para testes end-to-end, execute:
 
 ```bash
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+O Angular CLI não vem com um framework de testes ponta a ponta por padrão. Você pode escolher um que atenda às suas necessidades.
